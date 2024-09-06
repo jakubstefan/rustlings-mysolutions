@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-enums1
+tests1
 
 intro1
 intro2
@@ -35,3 +35,32 @@ move_semantics5
 structs1
 structs2
 structs3
+strings1
+strings2
+strings3
+strings4
+modules1
+modules2
+modules3
+hashmaps1
+hashmaps2
+hashmaps3
+options1
+options2
+options3
+errors1
+errors2
+errors3
+errors4
+errors5
+errors6
+generics1
+generics2
+traits1
+traits2
+traits3
+traits4
+traits5
+lifetimes1
+lifetimes2
+lifetimes3
